@@ -1,0 +1,11 @@
+DN,Standard,Type,Facing,Bore_mm,Flange_OD_mm,PCD_mm,Bolt_Qty,Bolt_Size,Bolt_Hole_mm,Thickness_mm,Raised_Face_Dia_mm,Slip_In_mm,Weight_kg,Notes
+32,DIN PN10,Slip-On,RF,,140,100,4,M16,18,14,84,10,,seed
+40,DIN PN10,Slip-On,RF,,150,110,4,M16,18,14,92,10,,seed
+50,DIN PN10,Slip-On,RF,,165,125,4,M16,18,16,102,10,,seed
+65,DIN PN10,Slip-On,RF,,185,145,4,M16,18,16,122,10,,seed
+80,DIN PN10,Slip-On,RF,,200,160,8,M16,18,18,138,10,,seed
+100,DIN PN10,Slip-On,RF,,220,180,8,M16,18,18,162,10,,seed
+150,DIN PN10,Slip-On,RF,,285,240,8,M20,22,20,218,10,,seed
+200,DIN PN10,Slip-On,RF,,340,295,12,M20,22,22,274,10,,seed
+300,DIN PN10,Slip-On,RF,,445,400,12,M20,22,24,370,10,,seed
+600,DIN PN10,Slip-On,RF,,780,725,16,M30,33,36,670,10,,seed

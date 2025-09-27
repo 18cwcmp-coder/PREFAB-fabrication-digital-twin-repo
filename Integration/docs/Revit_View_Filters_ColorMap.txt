@@ -1,0 +1,7 @@
+Not Started: Gray (180,180,180)
+Cut: Blue (50,120,220)
+Grooved: Orange (240,140,40)
+Fit-Up: Yellow (255,210,60)
+Welded: Green (80,180,80)
+QA Passed: Bright Green (40,210,60)
+Issue/Hold: Red (220,60,60)

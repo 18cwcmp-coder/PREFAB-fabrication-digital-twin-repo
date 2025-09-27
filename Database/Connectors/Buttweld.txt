@@ -1,0 +1,3 @@
+Connector: Buttweld
+Root gap: 1.6 mm (example)
+Bevel: 37.5 deg

@@ -1,0 +1,2 @@
+Connector: Slip-On (SOW)
+Engagement: +10.0 mm

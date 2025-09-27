@@ -1,0 +1,1 @@
+Publish Power BI report; add to Autodesk Build/Insight via Partner Card; set dataset refresh; scope access via O365 groups.

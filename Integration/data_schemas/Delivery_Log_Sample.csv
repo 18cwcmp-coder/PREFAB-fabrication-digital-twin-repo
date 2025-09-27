@@ -1,0 +1,2 @@
+Project,Spool_ID,Piece_ID,Delivery_Planned_Date,Delivery_Confirmed_By,Delivery_Confirmed_Timestamp,Site_Contact,Site_Access_Notes,Crane_Required,Crane_Booking_ID,Crane_Lift_DateTime
+NEP-2025,SP-CHW-001,PCE-000123,2025-09-28,John Foreman,2025-09-27T15:32:00,+61 400 123 123,"North gate, 7am, induction",Yes,CRN-22015,2025-09-28T08:00:00

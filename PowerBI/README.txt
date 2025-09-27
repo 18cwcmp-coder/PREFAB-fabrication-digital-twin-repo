@@ -1,0 +1,1 @@
+Place Fabrication_KPI_Template.pbit here (template to be authored).

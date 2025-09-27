@@ -1,0 +1,11 @@
+DN,Standard,Type,Facing,Bore_mm,Flange_OD_mm,PCD_mm,Bolt_Qty,Bolt_Size,Bolt_Hole_mm,Thickness_mm,Raised_Face_Dia_mm,Slip_In_mm,Weight_kg,Notes
+32,AS2129 Table E,Slip-On,FF,,141,114,4,M16,18,15,,10,,seed
+40,AS2129 Table E,Slip-On,FF,,152,127,4,M16,18,16,,10,,seed
+50,AS2129 Table E,Slip-On,FF,,178,152,4,M16,18,19,,10,,seed
+65,AS2129 Table E,Slip-On,FF,,191,165,4,M16,18,19,,10,,seed
+80,AS2129 Table E,Slip-On,FF,,203,178,8,M16,18,19,,10,,seed
+100,AS2129 Table E,Slip-On,FF,,229,203,8,M16,18,22,,10,,seed
+150,AS2129 Table E,Slip-On,FF,,279,254,8,M20,22,22,,10,,seed
+200,AS2129 Table E,Slip-On,FF,,343,318,12,M20,22,25,,10,,seed
+300,AS2129 Table E,Slip-On,FF,,483,445,12,M24,26,28,,10,,seed
+600,AS2129 Table E,Slip-On,FF,,826,762,20,M30,33,38,,10,,seed
